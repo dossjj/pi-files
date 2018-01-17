@@ -1,0 +1,8 @@
+[justinhdd]
+comment = justin 2tb hdd
+path = /mnt/justinhdd
+writeable = yes
+guest ok = yes
+create mask = 0755
+directory mask = 0755
+force user = pi
